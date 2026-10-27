@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+body {
+    text-align: center;
+    font-family: cursive;
+    background: #beacdc;
+    color: purple;
+    font-size: 20px;
+}
+
+.Header {
+    color: purple;
+    font-size: 50px;
+}
